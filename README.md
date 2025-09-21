@@ -1,6 +1,6 @@
-# week-8-database-assignment
+# Question 1: Build a Complete Database Management System 
 week 8 database assignment
-Question 1: Build a Complete Database Management System
+
 
 # Objective:
 Design and implement a full-featured relational database using MySQL.
